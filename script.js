@@ -26,7 +26,7 @@ var quotes = [
 var lastNo = 1;
 var randomNo;
 var thisQuote ="\""+"He who cannot obey himself will be commanded. Such is the nature of living things."+"\"";
-vaqqqqqqqqqqqqr thisAuthor = "Nietzsche";
+var thisAuthor = "Nietzsche";
 var randomFunction = function() {
   var randomNo = Math.floor(Math.random()*quotes.length);
   return randomNo;
