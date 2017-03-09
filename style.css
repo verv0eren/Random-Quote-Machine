@@ -1,0 +1,40 @@
+body{
+  background-color: #aa3939;
+  color: white; 
+}
+#heading{
+  margin-top: 2em;
+}
+#qblock {
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 1em;
+  padding-bottom: 2em;
+  margin-top: 80px; 
+}
+#author {
+  margin-top: 2em;
+  margin-bottom: 40px;
+}
+#btn-qt {
+  /* margin-right: 200px; */
+}
+.btn {
+  color:white !important;
+  background-color: #aa3939;
+  border: 1px solid white;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+.btn:hover, .btn:active {
+  color: #aa3939 !important;
+  background-color: white;
+  outline: none;
+}
+.btn:focus {
+  outline: none;
+}
+a, a:visited, a:focus {
+  color: white !important;
+  text-decoration: none;
+}
