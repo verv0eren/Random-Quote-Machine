@@ -21,13 +21,13 @@ body{
 }
 .btn {
   color:white !important;
-  background-color: #aa3939;
+  background-color: #403075;
   border: 1px solid white;
   border-radius: 3px;
   margin-top: 20px;
 }
 .btn:hover, .btn:active {
-  color: #aa3939 !important;
+  color: #403075 !important;
   background-color: white;
   outline: none;
 }
